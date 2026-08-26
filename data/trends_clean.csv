@@ -1,0 +1,73 @@
+post_id,title,category,score,num_comments,author,collected_at
+49426564,iCloud+ Hide My Email addresses will remain on icloud.com,technology,467,134,K7PJP,2026-08-25 15:38:06.452451
+49421158,MS Paint and Photos inivisibly watermark even locally generated output with GUID,technology,718,315,ComputerGuru,2026-08-25 15:38:08.757209
+49420116,Crafting QR Codes: A deep dive into QR code art (2024),technology,82,5,subset,2026-08-25 15:38:26.625053
+49411800,Training AI to Paint with Code,technology,94,11,Tiberium,2026-08-25 15:38:29.055924
+49424387,LLMs could control their host machines by exploiting inference engines,technology,145,66,zdw,2026-08-25 15:38:31.847213
+49412396,"I were 17, I'd learn how to build LLMs from scratch",technology,552,631,bilsbie,2026-08-25 15:38:37.083632
+49421489,IPFS Maintainers Winding Down,technology,346,177,iand,2026-08-25 15:38:46.196800
+49419351,"Show HN: A techno machine in one HTML file, with verifiable renders",technology,199,37,ssx360,2026-08-25 15:38:52.228658
+49430286,'Never seen this level of objection': Scotland pushes back against datacentres,technology,12,6,ndsipa_pomu,2026-08-25 15:39:03.796253
+49413561,I built a low-latency AI companion that plays Skyrim with me,technology,362,71,pantelisk,2026-08-25 15:39:05.024921
+49420556,Codefloe Is a Professionally Hosted Public Git Forge,technology,61,28,jeremyjh,2026-08-25 15:39:09.019699
+49421074,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),technology,324,311,tosh,2026-08-25 15:39:10.456654
+49415271,Executable Is a SQLite Database,technology,523,99,setheron,2026-08-25 15:39:18.153508
+49411102,Anthropic's best AI model struggles to attract users as cheaper tools thrive,technology,784,687,naves,2026-08-25 15:39:20.663954
+49415852,OCR It – pull text out of un-copyable documents for your LLM,technology,128,33,thiagolima,2026-08-25 15:39:25.811798
+49420902,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",technology,270,176,Brajeshwar,2026-08-25 15:39:28.278336
+49405657,AI Chip Architectures,technology,148,45,Finbarr,2026-08-25 15:39:30.805605
+49415893,FDA clears blood test to aid evaluation for Alzheimer's disease,technology,185,103,dabinat,2026-08-25 15:39:35.027892
+49423927,"Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",technology,61,6,realexweb,2026-08-25 15:39:44.962751
+49423792,Em Dash Is Fine – It Is AI That Sucks,technology,18,10,speckx,2026-08-25 15:39:47.475887
+49428303,80% of developers find AI coding more addictive than helpful,technology,25,1,jethronethro,2026-08-25 15:39:48.772583
+49420999,NetBSD GSoC 2026 Improving RAIDframe,technology,25,6,jaypatelani,2026-08-25 15:39:55.096444
+49415621,New EU-wide product repair rules come into force,technology,248,136,austinallegro,2026-08-25 15:39:57.760412
+49416553,Most AI Work Can Wait,technology,30,0,walterbell,2026-08-25 15:40:02.982261
+49425800,Vintage Artificial Intelligence: Before It Got Awkward,worldnews,100,19,signor_bosco,2026-08-25 15:40:24.320592
+49422227,Characterizing Agentic Flooding of Government Services,worldnews,70,79,lensecat,2026-08-25 15:40:54.592479
+49430821,"UK public don't trust Fujitsu, but government does",worldnews,8,1,latein,2026-08-25 15:41:13.842099
+49423045,Tracking Costco gas prices during a global fuel crisis,worldnews,30,17,lafond,2026-08-25 15:41:53.060836
+49420637,AliExpress Silent WebAudio Fingerprinting Uses Bluetooth Hardware,worldnews,19,1,MBCook,2026-08-25 15:42:21.238188
+49424936,The Government Report That Made Me Stop Trusting Our Statistical Agencies,worldnews,56,7,root-parent,2026-08-25 15:42:22.967863
+49408550,Malware infects Android-based automotive head unit firmware,worldnews,262,143,campuscodi,2026-08-25 15:42:42.324691
+49425340,"Amazon hikes hardware prices by 60 percent, blaming memory shortage",worldnews,31,5,speckx,2026-08-25 15:42:56.114509
+49419635,Show HN: BidSonar – MCP server for UK/EU government contracts and grants,worldnews,8,0,flibbertigibber,2026-08-25 15:44:31.882864
+49423219,Government Proposes New Six-Figure Fee for H1B Visas,worldnews,57,53,ilarum,2026-08-25 15:48:16.930030
+49404932,A look at CrossPoint e-reader firmware,worldnews,17,2,pykello,2026-08-25 15:49:23.415682
+49423204,Attorney General Cancels Settlement Talks over $111B Warner Bros. Discovery Deal,worldnews,6,0,thunderbong,2026-08-25 15:50:56.599396
+49404904,"European wildfires expose, detonate buried bombs and mines from past wars",worldnews,9,1,littlexsparkee,2026-08-25 15:51:01.339341
+49380200,Protocol-Aware Deterministic Simulation Testing,worldnews,13,0,sebg,2026-08-25 15:52:54.250309
+49403074,"QEMU, now with almost full NeXT Black/M68K hardware support",worldnews,8,0,wmlive,2026-08-25 15:53:14.118654
+49422784,The entire city of San Francisco as a video game,sports,473,142,centrosphere,2026-08-25 15:53:46.177380
+49419746,"Show HN: LunarBasic, a BASIC that compiles 2D games to native executables",sports,6,2,essial,2026-08-25 15:57:38.410177
+49373822,Conway's Game of Life in real life,sports,74,19,surprisetalk,2026-08-25 15:58:53.366368
+49420530,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,science,168,80,brandonb,2026-08-25 16:06:10.306706
+49383582,Micron announces $10B research hub in Boise,science,131,72,osnium123,2026-08-25 16:12:11.465486
+49423667,"SpaceX, Nvidia designed a space-optimized Vera Rubin NVL72 (orbit launch in Q4)",science,6,7,tosh,2026-08-25 16:14:02.569000
+49377853,I should have loved biology (2020),science,340,130,tyre,2026-08-25 16:14:17.945654
+49378630,Watching TikTok and Instagram deactivates the cognitive control network: Study,science,356,120,Akasci,2026-08-25 16:16:55.417596
+49427001,Bookshelf – Self-hosted eBook library that runs on object storage,entertainment,105,39,arbayi,2026-08-25 16:20:07.824795
+49410814,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,entertainment,72,18,Gorsefound,2026-08-25 16:20:10.494262
+49429095,"Show HN: Screen memory without screenshots, just text to Markdown",entertainment,53,18,Dramatize,2026-08-25 16:20:27.488373
+49421806,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",entertainment,124,22,adesh_nalpet,2026-08-25 16:20:33.636264
+49422243,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",entertainment,51,19,ovenpasta,2026-08-25 16:20:42.854050
+49420714,Show HN: How to mentally calculate the day of the week for any date,entertainment,73,20,yang140,2026-08-25 16:20:53.695357
+49421948,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",entertainment,114,50,tke248,2026-08-25 16:21:05.579735
+49389593,Show HN: SteppeWM – a stacking IceWM-like Wayland compositor,entertainment,19,5,uncognic,2026-08-25 16:21:08.652604
+49426877,Show HN: Flostep – Diagrams people can actually walk through,entertainment,18,6,pandurang90,2026-08-25 16:21:17.868776
+49417684,Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System,entertainment,28,13,NN708,2026-08-25 16:21:59.060255
+49423735,Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT,entertainment,16,1,sakshambatraa,2026-08-25 16:22:21.252864
+49420650,"Show HN: Tblue – 614 passive security scanners for any website, runs locally",entertainment,14,3,taylannuhoglu,2026-08-25 16:22:33.129755
+49408858,"My favorite nonfiction books about cults, scams, and schemes",entertainment,276,122,bwb,2026-08-25 16:22:36.100876
+49402181,I set a trap for a book-marketing scammer (2025),entertainment,88,59,rznicolet,2026-08-25 16:23:11.940087
+49402213,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,entertainment,131,22,speckx,2026-08-25 16:23:23.615023
+49427946,Some purchased movies on AppleTV are no longer accessible,entertainment,11,1,erickhill,2026-08-25 16:23:41.329542
+49417766,Ask HN: Those making $500/month on side projects in 2026 – Show and tell,entertainment,62,78,kaladan,2026-08-25 16:23:42.661421
+49390993,Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour,entertainment,17,17,Pawel_SkimmIQ,2026-08-25 16:23:44.092018
+49424013,Show HN: OutMap – a live map of 235 countries where anyone can place a link,entertainment,7,9,ifrosted,2026-08-25 16:23:45.525933
+49420055,Show HN: My Emacs Zero to IDE Journey,entertainment,12,0,KallDrexx,2026-08-25 16:23:54.306604
+49419837,Show HN: Dashi – a 214KB Chrome new tab dashboard with no servers or analytics,entertainment,8,2,trydashi,2026-08-25 16:24:02.936008
+49423029,"Show HN: Dev tools in one static site, no framework, no server",entertainment,5,1,gr3ggg,2026-08-25 16:24:10.717079
+49426275,How I Read Books,entertainment,12,7,nomilk,2026-08-25 16:24:32.640797
+49419615,Show HN: OpenMRP – an open-source manufacturing ERP built over 4 years,entertainment,8,2,dalbaugh,2026-08-25 16:25:20.759971
+49407309,Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive,entertainment,68,39,skylensspace,2026-08-25 16:25:32.227363

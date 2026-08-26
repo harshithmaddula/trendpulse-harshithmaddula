@@ -1,0 +1,73 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49426564,iCloud+ Hide My Email addresses will remain on icloud.com,technology,467,134,K7PJP,2026-08-25 15:38:06.452451,0.2863247863247863,True
+49421158,MS Paint and Photos inivisibly watermark even locally generated output with GUID,technology,718,315,ComputerGuru,2026-08-25 15:38:08.757209,0.4381084840055633,True
+49420116,Crafting QR Codes: A deep dive into QR code art (2024),technology,82,5,subset,2026-08-25 15:38:26.625053,0.060240963855421686,False
+49411800,Training AI to Paint with Code,technology,94,11,Tiberium,2026-08-25 15:38:29.055924,0.11578947368421053,False
+49424387,LLMs could control their host machines by exploiting inference engines,technology,145,66,zdw,2026-08-25 15:38:31.847213,0.4520547945205479,True
+49412396,"I were 17, I'd learn how to build LLMs from scratch",technology,552,631,bilsbie,2026-08-25 15:38:37.083632,1.1410488245931283,True
+49421489,IPFS Maintainers Winding Down,technology,346,177,iand,2026-08-25 15:38:46.196800,0.5100864553314121,True
+49419351,"Show HN: A techno machine in one HTML file, with verifiable renders",technology,199,37,ssx360,2026-08-25 15:38:52.228658,0.185,True
+49430286,'Never seen this level of objection': Scotland pushes back against datacentres,technology,12,6,ndsipa_pomu,2026-08-25 15:39:03.796253,0.46153846153846156,False
+49413561,I built a low-latency AI companion that plays Skyrim with me,technology,362,71,pantelisk,2026-08-25 15:39:05.024921,0.19559228650137742,True
+49420556,Codefloe Is a Professionally Hosted Public Git Forge,technology,61,28,jeremyjh,2026-08-25 15:39:09.019699,0.45161290322580644,False
+49421074,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),technology,324,311,tosh,2026-08-25 15:39:10.456654,0.9569230769230769,True
+49415271,Executable Is a SQLite Database,technology,523,99,setheron,2026-08-25 15:39:18.153508,0.18893129770992367,True
+49411102,Anthropic's best AI model struggles to attract users as cheaper tools thrive,technology,784,687,naves,2026-08-25 15:39:20.663954,0.8751592356687898,True
+49415852,OCR It – pull text out of un-copyable documents for your LLM,technology,128,33,thiagolima,2026-08-25 15:39:25.811798,0.2558139534883721,False
+49420902,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",technology,270,176,Brajeshwar,2026-08-25 15:39:28.278336,0.6494464944649446,True
+49405657,AI Chip Architectures,technology,148,45,Finbarr,2026-08-25 15:39:30.805605,0.30201342281879195,True
+49415893,FDA clears blood test to aid evaluation for Alzheimer's disease,technology,185,103,dabinat,2026-08-25 15:39:35.027892,0.553763440860215,True
+49423927,"Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",technology,61,6,realexweb,2026-08-25 15:39:44.962751,0.0967741935483871,False
+49423792,Em Dash Is Fine – It Is AI That Sucks,technology,18,10,speckx,2026-08-25 15:39:47.475887,0.5263157894736842,False
+49428303,80% of developers find AI coding more addictive than helpful,technology,25,1,jethronethro,2026-08-25 15:39:48.772583,0.038461538461538464,False
+49420999,NetBSD GSoC 2026 Improving RAIDframe,technology,25,6,jaypatelani,2026-08-25 15:39:55.096444,0.23076923076923078,False
+49415621,New EU-wide product repair rules come into force,technology,248,136,austinallegro,2026-08-25 15:39:57.760412,0.5461847389558233,True
+49416553,Most AI Work Can Wait,technology,30,0,walterbell,2026-08-25 15:40:02.982261,0.0,False
+49425800,Vintage Artificial Intelligence: Before It Got Awkward,worldnews,100,19,signor_bosco,2026-08-25 15:40:24.320592,0.18811881188118812,False
+49422227,Characterizing Agentic Flooding of Government Services,worldnews,70,79,lensecat,2026-08-25 15:40:54.592479,1.1126760563380282,False
+49430821,"UK public don't trust Fujitsu, but government does",worldnews,8,1,latein,2026-08-25 15:41:13.842099,0.1111111111111111,False
+49423045,Tracking Costco gas prices during a global fuel crisis,worldnews,30,17,lafond,2026-08-25 15:41:53.060836,0.5483870967741935,False
+49420637,AliExpress Silent WebAudio Fingerprinting Uses Bluetooth Hardware,worldnews,19,1,MBCook,2026-08-25 15:42:21.238188,0.05,False
+49424936,The Government Report That Made Me Stop Trusting Our Statistical Agencies,worldnews,56,7,root-parent,2026-08-25 15:42:22.967863,0.12280701754385964,False
+49408550,Malware infects Android-based automotive head unit firmware,worldnews,262,143,campuscodi,2026-08-25 15:42:42.324691,0.5437262357414449,True
+49425340,"Amazon hikes hardware prices by 60 percent, blaming memory shortage",worldnews,31,5,speckx,2026-08-25 15:42:56.114509,0.15625,False
+49419635,Show HN: BidSonar – MCP server for UK/EU government contracts and grants,worldnews,8,0,flibbertigibber,2026-08-25 15:44:31.882864,0.0,False
+49423219,Government Proposes New Six-Figure Fee for H1B Visas,worldnews,57,53,ilarum,2026-08-25 15:48:16.930030,0.9137931034482759,False
+49404932,A look at CrossPoint e-reader firmware,worldnews,17,2,pykello,2026-08-25 15:49:23.415682,0.1111111111111111,False
+49423204,Attorney General Cancels Settlement Talks over $111B Warner Bros. Discovery Deal,worldnews,6,0,thunderbong,2026-08-25 15:50:56.599396,0.0,False
+49404904,"European wildfires expose, detonate buried bombs and mines from past wars",worldnews,9,1,littlexsparkee,2026-08-25 15:51:01.339341,0.1,False
+49380200,Protocol-Aware Deterministic Simulation Testing,worldnews,13,0,sebg,2026-08-25 15:52:54.250309,0.0,False
+49403074,"QEMU, now with almost full NeXT Black/M68K hardware support",worldnews,8,0,wmlive,2026-08-25 15:53:14.118654,0.0,False
+49422784,The entire city of San Francisco as a video game,sports,473,142,centrosphere,2026-08-25 15:53:46.177380,0.29957805907172996,True
+49419746,"Show HN: LunarBasic, a BASIC that compiles 2D games to native executables",sports,6,2,essial,2026-08-25 15:57:38.410177,0.2857142857142857,False
+49373822,Conway's Game of Life in real life,sports,74,19,surprisetalk,2026-08-25 15:58:53.366368,0.25333333333333335,False
+49420530,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,science,168,80,brandonb,2026-08-25 16:06:10.306706,0.47337278106508873,True
+49383582,Micron announces $10B research hub in Boise,science,131,72,osnium123,2026-08-25 16:12:11.465486,0.5454545454545454,False
+49423667,"SpaceX, Nvidia designed a space-optimized Vera Rubin NVL72 (orbit launch in Q4)",science,6,7,tosh,2026-08-25 16:14:02.569000,1.0,False
+49377853,I should have loved biology (2020),science,340,130,tyre,2026-08-25 16:14:17.945654,0.3812316715542522,True
+49378630,Watching TikTok and Instagram deactivates the cognitive control network: Study,science,356,120,Akasci,2026-08-25 16:16:55.417596,0.33613445378151263,True
+49427001,Bookshelf – Self-hosted eBook library that runs on object storage,entertainment,105,39,arbayi,2026-08-25 16:20:07.824795,0.36792452830188677,False
+49410814,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,entertainment,72,18,Gorsefound,2026-08-25 16:20:10.494262,0.2465753424657534,False
+49429095,"Show HN: Screen memory without screenshots, just text to Markdown",entertainment,53,18,Dramatize,2026-08-25 16:20:27.488373,0.3333333333333333,False
+49421806,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",entertainment,124,22,adesh_nalpet,2026-08-25 16:20:33.636264,0.176,False
+49422243,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",entertainment,51,19,ovenpasta,2026-08-25 16:20:42.854050,0.36538461538461536,False
+49420714,Show HN: How to mentally calculate the day of the week for any date,entertainment,73,20,yang140,2026-08-25 16:20:53.695357,0.2702702702702703,False
+49421948,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",entertainment,114,50,tke248,2026-08-25 16:21:05.579735,0.43478260869565216,False
+49389593,Show HN: SteppeWM – a stacking IceWM-like Wayland compositor,entertainment,19,5,uncognic,2026-08-25 16:21:08.652604,0.25,False
+49426877,Show HN: Flostep – Diagrams people can actually walk through,entertainment,18,6,pandurang90,2026-08-25 16:21:17.868776,0.3157894736842105,False
+49417684,Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System,entertainment,28,13,NN708,2026-08-25 16:21:59.060255,0.4482758620689655,False
+49423735,Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT,entertainment,16,1,sakshambatraa,2026-08-25 16:22:21.252864,0.058823529411764705,False
+49420650,"Show HN: Tblue – 614 passive security scanners for any website, runs locally",entertainment,14,3,taylannuhoglu,2026-08-25 16:22:33.129755,0.2,False
+49408858,"My favorite nonfiction books about cults, scams, and schemes",entertainment,276,122,bwb,2026-08-25 16:22:36.100876,0.4404332129963899,True
+49402181,I set a trap for a book-marketing scammer (2025),entertainment,88,59,rznicolet,2026-08-25 16:23:11.940087,0.6629213483146067,False
+49402213,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,entertainment,131,22,speckx,2026-08-25 16:23:23.615023,0.16666666666666666,False
+49427946,Some purchased movies on AppleTV are no longer accessible,entertainment,11,1,erickhill,2026-08-25 16:23:41.329542,0.08333333333333333,False
+49417766,Ask HN: Those making $500/month on side projects in 2026 – Show and tell,entertainment,62,78,kaladan,2026-08-25 16:23:42.661421,1.2380952380952381,False
+49390993,Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour,entertainment,17,17,Pawel_SkimmIQ,2026-08-25 16:23:44.092018,0.9444444444444444,False
+49424013,Show HN: OutMap – a live map of 235 countries where anyone can place a link,entertainment,7,9,ifrosted,2026-08-25 16:23:45.525933,1.125,False
+49420055,Show HN: My Emacs Zero to IDE Journey,entertainment,12,0,KallDrexx,2026-08-25 16:23:54.306604,0.0,False
+49419837,Show HN: Dashi – a 214KB Chrome new tab dashboard with no servers or analytics,entertainment,8,2,trydashi,2026-08-25 16:24:02.936008,0.2222222222222222,False
+49423029,"Show HN: Dev tools in one static site, no framework, no server",entertainment,5,1,gr3ggg,2026-08-25 16:24:10.717079,0.16666666666666666,False
+49426275,How I Read Books,entertainment,12,7,nomilk,2026-08-25 16:24:32.640797,0.5384615384615384,False
+49419615,Show HN: OpenMRP – an open-source manufacturing ERP built over 4 years,entertainment,8,2,dalbaugh,2026-08-25 16:25:20.759971,0.2222222222222222,False
+49407309,Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive,entertainment,68,39,skylensspace,2026-08-25 16:25:32.227363,0.5652173913043478,False
