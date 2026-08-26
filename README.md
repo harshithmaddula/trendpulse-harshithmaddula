@@ -4,7 +4,7 @@
 
 
 
-\# TrendPulse
+# TrendPulse
 
 
 
@@ -14,7 +14,7 @@ analyses them with Pandas/NumPy, and visualises the results.
 
 
 
-\## Pipeline
+## Pipeline
 
 1\. `task1\_data\_collection.py` — Fetches top stories from the HackerNews API and categorises them
 
@@ -26,7 +26,7 @@ analyses them with Pandas/NumPy, and visualises the results.
 
 
 
-\## How to run
+## How to run
 
 \\`\\`\\`
 
