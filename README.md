@@ -28,8 +28,6 @@ analyses them with Pandas/NumPy, and visualises the results.
 
 ## How to run
 
-\\`\\`\\`
-
 pip install requests pandas numpy matplotlib
 
 python task1\_data\_collection.py
@@ -40,11 +38,9 @@ python task3\_analysis.py
 
 python task4\_visualization.py
 
-\\`\\`\\`
 
 
-
-\## Output
+## Output
 
 \- `data/` — JSON and CSV files at each pipeline stage
 
